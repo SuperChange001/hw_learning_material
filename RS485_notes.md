@@ -1,6 +1,6 @@
 # 1. RS-485笔记
 ## 1.1. 参考文档
-1. [所有笔记](https://gitee.com/AndrewChu/hardware-design)
+1. [所有笔记](https://github.com/SuperChange001/hw_learning_material)
 2. [TI Precision LABS](https://training.ti.com/ti-precision-labs-interface?context=1139747-1138099)
 2. [Frequently asked questions and answers for RS-485 transceivers](https://e2e.ti.com/blogs_/b/analogwire/archive/2019/04/09/frequently-asked-questions-and-answers-for-rs-485-transceivers)
 2. [RS-422 and RS-485 Standards Overview and System Configurations](https://www.ti.com/lit/an/slla070d/slla070d.pdf?ts=1598241208035&ref_url=https%253A%252F%252Fwww.google.com%252F)

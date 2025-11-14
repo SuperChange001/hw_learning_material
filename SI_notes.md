@@ -1,9 +1,9 @@
 # 1. Signal Integrity
-这个是哪门子的SI？写的一点都不专业!这个是我对这篇文章的评价，要是你和我想的一样，那就英雄所见略同了，哈哈。另外说一点，这篇文章是我一个字一个字码出来~~如果图裂了，请点击[链接](https://gitee.com/AndrewChu/hardware-design/blob/master/SI_notes.md)
+这个是哪门子的SI？写的一点都不专业!这个是我对这篇文章的评价，要是你和我想的一样，那就英雄所见略同了，哈哈。另外说一点，这篇文章是我一个字一个字码出来~~如果图裂了，请点击[链接](https://github.com/SuperChange001/hw_learning_material/blob/master/SI_notes.md)
 ## 1.1. 名词缩写
 - GPD：groud potential difference
 ## 1.2. 参考资料
-- [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)    
+- [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)    
 - 电磁兼容的印制电路板设计（写的很好，但是翻译错误很多，要注意）
 - PCB电流与信号完整性设计
 - TI-PrecisionLABs-EMC

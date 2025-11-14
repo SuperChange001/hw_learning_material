@@ -7,7 +7,7 @@
 2. UVLO：under voltage 
 
 ## 1.3. 参考文档
-- [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)
+- [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)
 - [common mistakes in DCDC](https://training.ti.com/common-mistakes-dcdc-buck-converters-part-selection?context=1127730-1135482-1139329-1135476)
 - [Common Mistakes in Flyback Power Supplies and How to Fix Them](https://training.ti.com/common-mistakes-flyback-power-supplies-and-how-fix-them-audible-noise-and-input-capacitors?context=1127730-1139938-1139945-1139886)
 - ADI-电源大师课

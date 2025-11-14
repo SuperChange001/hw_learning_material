@@ -16,9 +16,9 @@
 - 网易云音乐
 
 ## 1.2. 学习的记录
-- [易错单词](https://gitee.com/AndrewChu/hardware-design/blob/master/IELTS/Vocabulary_Enhancement.md)
-- [分类话题和表达](https://gitee.com/AndrewChu/hardware-design/blob/master/IELTS/Typical_Expression.md)
-- [文章和歌词](https://gitee.com/AndrewChu/hardware-design/blob/master/IELTS/Article_Lyric.md)
+- [易错单词](https://github.com/SuperChange001/hw_learning_material/blob/master/IELTS/Vocabulary_Enhancement.md)
+- [分类话题和表达](https://github.com/SuperChange001/hw_learning_material/blob/master/IELTS/Typical_Expression.md)
+- [文章和歌词](https://github.com/SuperChange001/hw_learning_material/blob/master/IELTS/Article_Lyric.md)
 
 # 2. IELTS考试
 ## 2.1. 考试的内容

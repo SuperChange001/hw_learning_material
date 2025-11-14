@@ -5,7 +5,7 @@
 - MOSFET：mental oxide semiconductor field effect transistor
 - CMOS：complement-MOS
 ## 1.2. 参考文档
-- [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design) 
+- [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material) 
 - 新概念模拟电路-杨建国
 
 ## 1.3. 总结

@@ -1,7 +1,7 @@
 # 1. Electronic Basics
 
 ## 1.1. 参考资料：
-1. [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)
+1. [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)
 2. [FFT Theory-Dr CAN ](https://space.bilibili.com/230105574/channel/detail?cid=67768)
 3. [你也可以理解的麦克斯韦方程组](https://zhuanlan.zhihu.com/p/41672471)
 2. 电子产品设计EMC风险评估-郑军旗

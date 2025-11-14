@@ -1,6 +1,6 @@
 # 1. Product_EMC_Evaluation
 ## 1.1. 参考资料
-- [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)   
+- [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)   
 - 电子产品设计EMC分析评估-郑军旗
 ## 1.2. 名词解释
 - EMC

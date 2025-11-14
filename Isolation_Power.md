@@ -1,7 +1,7 @@
 # 1. _Isolation_Power
 
 ## 1.1. 参考资料
-- [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)  
+- [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)  
 - [TI Precision Labs ](https://training.ti.com/ti-precision-labs-isolation-what-galvanic-isolation?context=1139747-1135015-1139269-1135013)
 
 ## 1.2. 名词解释

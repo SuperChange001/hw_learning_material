@@ -1,6 +1,6 @@
 # 1. LTspice记录
 ## 1.1. 参考资料
-1. [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)    
+1. [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)    
 2. 内置的help文档。这里面基本上把所有问题都讲了。
 2. ADI的官网，貌似是这个软件的作者会写一些常用的指导。
 ## 1.2. 缩写

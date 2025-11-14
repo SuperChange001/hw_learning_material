@@ -2,7 +2,7 @@
 ## 1.1. 参考资料
 - C语言程序设计第四版 谭浩强
 ## 1.2. 总结：
-这个是比较系统的笔记，根据C语言程序设计第四版：[笔记：C语言程序设计第四版](https://gitee.com/AndrewChu/hardware-design/raw/master/PDF/C语言程序设计第四版%20谭浩强.pdf) 
+这个是比较系统的笔记，根据C语言程序设计第四版：[笔记：C语言程序设计第四版](https://github.com/SuperChange001/hw_learning_material/raw/master/PDF/C语言程序设计第四版%20谭浩强.pdf) 
 下面是一些比较零散的记录。   
 
 - 函数入栈都是右传递：就是右边的参数先调用

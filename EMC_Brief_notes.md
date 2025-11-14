@@ -23,9 +23,9 @@ EMC在很多书里会被描述成电路的黑魔法。EMC包括EMI和EMS。两�
 - QP: quasi peak
 
 ## 1.2. 参考资料
-- [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)   
+- [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)   
 - 电子产品设计EMC分析评估-郑军旗
-- [我的笔记：Product_EMC_Evaluation](https://gitee.com/AndrewChu/hardware-design/blob/master/Product_EMC_Evaluation.md)
+- [我的笔记：Product_EMC_Evaluation](https://github.com/SuperChange001/hw_learning_material/blob/master/Product_EMC_Evaluation.md)
 - [EMC for isolator-TI](https://training.ti.com/ti-precision-labs-isolation-introduction-emc-tests-isolation?context=1139747-1135015-1139269-1147201)
 
 

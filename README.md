@@ -1,6 +1,6 @@
 # 1. 前言
 
-[所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)    
+[所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)    
 所有的文字都是作者一个一个码出来的，花了很多的时间和精力。创作不易，大家要是有Gitee的账号，那就给我点个Star把。    
 
 一个优秀的工程师，不是**业务驱动型**，而是**技术驱动型**。这个也是为什么真正优秀的公司都是**面试造火箭，实际拧螺丝**的原因。很多人只会描述自己的业务，自己的项目，但是对于电路深层次的原理则是一无所知。**理论和实践是两条腿走路的**，甚至于理论是远高于实践的。不要只做一个**if else coder**！     
@@ -12,68 +12,68 @@
 内容已经分门别类，请直接点击链接：     
 1. 基本元件：
 	- 说明：基本元件简单，但是都是基于直流低频的模式下。随着现在电路的工作频率越来越高，元件的寄生参数的作用会越来越明显。
-	- [Electronic Basics](https://gitee.com/AndrewChu/hardware-design/blob/master/R-C-L-D_notes.md)
-	- [BJT-MOSFET_notes](https://gitee.com/AndrewChu/hardware-design/blob/master/BJT-MOSFET_notes.md)
+	- [Electronic Basics](https://github.com/SuperChange001/hw_learning_material/blob/master/R-C-L-D_notes.md)
+	- [BJT-MOSFET_notes](https://github.com/SuperChange001/hw_learning_material/blob/master/BJT-MOSFET_notes.md)
 2. 电源：
 	- 说明：一个好的电源是模数电路的基础。但是现在的DCDC IC已经内置了非常多的功能，导致电子工程师对于DCDC的底层原理理解不够，从而把握不住DCDC的设计关键参数，尤其是出现功能性问题和EMC整改的时候是一头雾水。
-	- [DC-DC-Basics](https://gitee.com/AndrewChu/hardware-design/blob/master/DC-DC-Basics.md)
-	- [Isolation and EMC tricks](https://gitee.com/AndrewChu/hardware-design/blob/master/Isolation_Power.md)
-	- [ACDC DCDC-Common-mistakes](https://gitee.com/AndrewChu/hardware-design/blob/master/DC-DC-Common-mistake.md)
-	- [DCDC环路补偿](https://gitee.com/AndrewChu/hardware-design/blob/master/Loop_compensation.md)
-	- [Motor_Driver](https://gitee.com/AndrewChu/hardware-design/blob/master/Power_Electronics/Motor_Driver.md)
+	- [DC-DC-Basics](https://github.com/SuperChange001/hw_learning_material/blob/master/DC-DC-Basics.md)
+	- [Isolation and EMC tricks](https://github.com/SuperChange001/hw_learning_material/blob/master/Isolation_Power.md)
+	- [ACDC DCDC-Common-mistakes](https://github.com/SuperChange001/hw_learning_material/blob/master/DC-DC-Common-mistake.md)
+	- [DCDC环路补偿](https://github.com/SuperChange001/hw_learning_material/blob/master/Loop_compensation.md)
+	- [Motor_Driver](https://github.com/SuperChange001/hw_learning_material/blob/master/Power_Electronics/Motor_Driver.md)
 2. 模拟：
 	- 说明：纯模拟越来越少，模数混合是趋势。搞不懂OPA和ADC，是做不好模拟信号采集的。基本上所有的参数，都有DC模式和AC模式。
-	- [Analog-Engineer's-Pocket-Reference-TI](https://gitee.com/AndrewChu/hardware-design/blob/master/Analog-Engineer's-Pocket-Reference-TI.md)
-	- [ADC-PrecisionLABS-TI](https://gitee.com/AndrewChu/hardware-design/blob/master/ADC-PrecisionLABS-TI..md)
-	- [OPA-PrecisionLABS-TI](https://gitee.com/AndrewChu/hardware-design/blob/master/OPA-PrecisionLABS-TI.md)
-	- [新概念模拟电路](https://gitee.com/AndrewChu/hardware-design/blob/master/Analog-Circuit-compilation-yang_notes.md)
+	- [Analog-Engineer's-Pocket-Reference-TI](https://github.com/SuperChange001/hw_learning_material/blob/master/Analog-Engineer's-Pocket-Reference-TI.md)
+	- [ADC-PrecisionLABS-TI](https://github.com/SuperChange001/hw_learning_material/blob/master/ADC-PrecisionLABS-TI..md)
+	- [OPA-PrecisionLABS-TI](https://github.com/SuperChange001/hw_learning_material/blob/master/OPA-PrecisionLABS-TI.md)
+	- [新概念模拟电路](https://github.com/SuperChange001/hw_learning_material/blob/master/Analog-Circuit-compilation-yang_notes.md)
 3. EMC：
-	- [EMC_Brief_notes](https://gitee.com/AndrewChu/hardware-design/blob/master/EMC_Brief_notes.md)
-	- [产品EMC设计](https://gitee.com/AndrewChu/hardware-design/blob/master/Product_EMC_Evaluation.md)	
+	- [EMC_Brief_notes](https://github.com/SuperChange001/hw_learning_material/blob/master/EMC_Brief_notes.md)
+	- [产品EMC设计](https://github.com/SuperChange001/hw_learning_material/blob/master/Product_EMC_Evaluation.md)	
 3. 信号完整性：
 	- 说明：我们在设计低速电路的时候已经有了部分考虑
-	- [SI](https://gitee.com/AndrewChu/hardware-design/blob/master/SI_notes.md)
+	- [SI](https://github.com/SuperChange001/hw_learning_material/blob/master/SI_notes.md)
 3. 仿真：
 	- 说明：暂时只有用SPICE模型对模拟电路的仿真，如瞬态响应，环路稳定性，噪声分析等。后续会加入HyperLynx的传输线信号完整性仿真的内容。
-	- [LTspice_notes](https://gitee.com/AndrewChu/hardware-design/blob/master/LTspice_notes.md)
+	- [LTspice_notes](https://github.com/SuperChange001/hw_learning_material/blob/master/LTspice_notes.md)
 
 
 3. 总线：
 	- 说明：各种总线的原理，是做嵌入式控制板的底层。会用和搞懂搞清楚是两码事。跑通和稳定可靠也是两码事。
-	- [RS485_notes](https://gitee.com/AndrewChu/hardware-design/blob/master/RS485_notes.md)
-	- [CAN_notes](https://gitee.com/AndrewChu/hardware-design/blob/master/CAN_notes.md)
-	- [SPI_IIC_UART_notes](https://gitee.com/AndrewChu/hardware-design/blob/master/SPI_IIC_UART_notes.md)
-	- [Ethernet PHY](https://gitee.com/AndrewChu/hardware-design/blob/master/Ethernet.md)
+	- [RS485_notes](https://github.com/SuperChange001/hw_learning_material/blob/master/RS485_notes.md)
+	- [CAN_notes](https://github.com/SuperChange001/hw_learning_material/blob/master/CAN_notes.md)
+	- [SPI_IIC_UART_notes](https://github.com/SuperChange001/hw_learning_material/blob/master/SPI_IIC_UART_notes.md)
+	- [Ethernet PHY](https://github.com/SuperChange001/hw_learning_material/blob/master/Ethernet.md)
 	- `无线总线`
 
 4. 传感器：
 	- 说明：单纯研究传感器是没有前途的。关键是Sensor+OPA+ADC整个信号链路要了解。不然就会是一头雾水。
-	- [温度-惠更斯电桥](https://gitee.com/AndrewChu/hardware-design/blob/master/Sensor/Temp.md)
-	- [Hall Effect](https://gitee.com/AndrewChu/hardware-design/blob/master/Sensor/Hall_Effect.md)
-	- [压力](https://gitee.com/AndrewChu/hardware-design/blob/master/Sensor/Pressure_Sensor.md)
-	- [基于CSA的电流检测](https://gitee.com/AndrewChu/hardware-design/blob/master/Sensor/Current.md)
-	- [环境光检测(暂不包含微弱信号检测)](https://gitee.com/AndrewChu/hardware-design/blob/master/Sensor/Optical.md)
+	- [温度-惠更斯电桥](https://github.com/SuperChange001/hw_learning_material/blob/master/Sensor/Temp.md)
+	- [Hall Effect](https://github.com/SuperChange001/hw_learning_material/blob/master/Sensor/Hall_Effect.md)
+	- [压力](https://github.com/SuperChange001/hw_learning_material/blob/master/Sensor/Pressure_Sensor.md)
+	- [基于CSA的电流检测](https://github.com/SuperChange001/hw_learning_material/blob/master/Sensor/Current.md)
+	- [环境光检测(暂不包含微弱信号检测)](https://github.com/SuperChange001/hw_learning_material/blob/master/Sensor/Optical.md)
 
 2. 数字：
 	- `STM32最小系统设计`
 	- `Xilinx ZYNQ-7000series design`
 4. 软件：
-	- [C](https://gitee.com/AndrewChu/hardware-design/blob/master/Software/C_notes.md)
-	- [ZYNQ Notes1](https://gitee.com/AndrewChu/hardware-design/blob/master/FPGA/ZYNQ_notes.md)
-	- [ZYNQ Notes2](https://gitee.com/AndrewChu/hardware-design/blob/master/FPGA/ZYNQ_notes2.md)
-	- [ZYNQ_PS](https://gitee.com/AndrewChu/hardware-design/blob/master/FPGA/ZYNQ_PS_notes2.md)
-	- [Matlab入门](https://gitee.com/AndrewChu/hardware-design/raw/master/PDF/Matlab入门.pdf)
+	- [C](https://github.com/SuperChange001/hw_learning_material/blob/master/Software/C_notes.md)
+	- [ZYNQ Notes1](https://github.com/SuperChange001/hw_learning_material/blob/master/FPGA/ZYNQ_notes.md)
+	- [ZYNQ Notes2](https://github.com/SuperChange001/hw_learning_material/blob/master/FPGA/ZYNQ_notes2.md)
+	- [ZYNQ_PS](https://github.com/SuperChange001/hw_learning_material/blob/master/FPGA/ZYNQ_PS_notes2.md)
+	- [Matlab入门](https://github.com/SuperChange001/hw_learning_material/raw/master/PDF/Matlab入门.pdf)
 	- `Raspberry_notes`
 	- `Python_notes`
 	- `Linux_notes`
 4. 数学：
-	- [线性代数](https://gitee.com/AndrewChu/hardware-design/blob/master/Math/Linear_Algebra_notes.md)
+	- [线性代数](https://github.com/SuperChange001/hw_learning_material/blob/master/Math/Linear_Algebra_notes.md)
 	- `高等数学`
 	- `概率论`
-	- [三角级数，傅里叶变换和拉普拉斯变换](https://gitee.com/AndrewChu/hardware-design/blob/master/Math/Fourier_Laplace.md)
-4. 英语：[IELTS Preparation](https://gitee.com/AndrewChu/hardware-design/blob/master/IELTS_arrangement.md)
-3. 其他书籍：[总结](https://gitee.com/AndrewChu/hardware-design/blob/master/Books/Books_Summary.md)
-4. Python实用脚本：[总结](https://gitee.com/AndrewChu/hardware-design/blob/master/Script/readme.md)
+	- [三角级数，傅里叶变换和拉普拉斯变换](https://github.com/SuperChange001/hw_learning_material/blob/master/Math/Fourier_Laplace.md)
+4. 英语：[IELTS Preparation](https://github.com/SuperChange001/hw_learning_material/blob/master/IELTS_arrangement.md)
+3. 其他书籍：[总结](https://github.com/SuperChange001/hw_learning_material/blob/master/Books/Books_Summary.md)
+4. Python实用脚本：[总结](https://github.com/SuperChange001/hw_learning_material/blob/master/Script/readme.md)
 	
 # 3. 说明
 1. **硬件工程师不是抄抄抄，抄以前的设计，抄Datasheet里的Typical Application**。要对硬件的底层，硬件背后的原理有认识。**深入每一个元件的选型和参数**，都要有个specification。

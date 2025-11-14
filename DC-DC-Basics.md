@@ -3,7 +3,7 @@
 建议大家先看`基本元件`里的所有内容。R C L D的参数并不是大家想的那么简单，用好BJT和MOSFET更是每一个EE的基本功。  
 
 ## 1.1. 参考资料
-1. [所有笔记的链接](https://gitee.com/AndrewChu/hardware-design)   
+1. [所有笔记的链接](https://github.com/SuperChange001/hw_learning_material)   
 2. ADI-电源大师课(关注ADI智库微信，有免费版本的，就是播放器非常简陋)
 2. [DCDC粗略介绍](https://training.ti.com/dc-dc-fundamentals-introduction?context=38908-374)
 3. [DCDC-电容电感的参数](https://training.ti.com/capacitor-selection-overview?context=44120-1138819-1936)
@@ -239,8 +239,8 @@ ESL：方波
 
 # 11. 其他总结的资料
 这里的内容，已经包含了很多电源大师课的内容。如果还想细致地了解一下，请看我做的
-- [笔记：电源大师课](https://gitee.com/AndrewChu/hardware-design/raw/master/电源大师课.pdf)
-- [开关电源参数设计](https://gitee.com/AndrewChu/hardware-design/raw/master/PDF/开关电源.pdf)
+- [笔记：电源大师课](https://github.com/SuperChange001/hw_learning_material/raw/master/电源大师课.pdf)
+- [开关电源参数设计](https://github.com/SuperChange001/hw_learning_material/raw/master/PDF/开关电源.pdf)
 
 # 12. FAQ：
 加强内容：MOS的损耗分析。电流控制电压控制。1，2，3型补偿？？这几点又忘了……   
