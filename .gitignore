@@ -1,0 +1,5 @@
+_v_images/
+*.vswp
+*.json
+
+.DS_Store
